@@ -13,7 +13,7 @@ body
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	width: 500px;
+	width: 600px;
 	background: #fff;
 	padding: 45px;
 	box-sizing: border-box;
@@ -75,8 +75,8 @@ body
 	font-size: 12px;
 	font-weight: bold;
 }
-.container input:focus,
-.container input:valid
+.container input:focus 
+.container input:valid 
 {
 	border-bottom: 2px solid rgb(66,133,244);
 }
